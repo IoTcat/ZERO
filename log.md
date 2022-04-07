@@ -3,6 +3,7 @@
  - Using vmware to create a new VM (cpu:2,2; RAM:4GB; Disk:60G) from the ISO.
  - The username is set as `zero`.
  - Update OS to the latest version.
+ - The hostname is set as `ZERO`.
  - Move [`iotcat/kms`](https://github.com/IoTcat/kms) `v1.2` to `c:/tools/kms`.
  - Run `iotcat/kms` to active Windows OS.
  - Move [`Dism++`](https://github.com/Chuyu-Team/Dism-Multi-language) `v10.1.1002.1` to `c:/tools/dism++`
