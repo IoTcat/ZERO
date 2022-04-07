@@ -1,0 +1,17 @@
+# v0.0.0
+ - Download Windows 10 US-EN x64 Version 21H2 ISO from [https://tb.rg-adguard.net/](https://tb.rg-adguard.net/).
+ - Using vmware to create a new VM (cpu:2,2; RAM:4GB; Disk:60G) from the ISO.
+ - The username is set as `zero`.
+ - Update OS to the latest version.
+ - Move [`iotcat/kms`](https://github.com/IoTcat/kms) `v1.2` to `c:/tools/kms`.
+ - Run `iotcat/kms` to active Windows OS.
+ - Move [`Dism++`](https://github.com/Chuyu-Team/Dism-Multi-language) `v10.1.1002.1` to `c:/tools/dism++`
+
+# General Procedures for Packaging
+1. Update `log.md`.
+2. Shutdown the VM and take a snapshot with Version info.
+3. Start the VM and using `Dism++` to generate an image file, named `zero_vx.x.x.wim`.
+4. Upload the image file to server with URL `http://eee.dog/zero@x.x.x`.
+5. Redirect the URL `http://eee.dog/zero` to latest image's URL.
+6. Commit and push the Git repo.
+7. Publish a release on Github repo named `vx.x.x` with log details.
