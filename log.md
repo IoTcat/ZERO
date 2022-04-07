@@ -11,7 +11,7 @@
 # General Procedures for Packaging
 1. Update `log.md`.
 2. Shutdown the VM and take a snapshot with Version info.
-3. Start the VM and using `Dism++` to generate an image file, named `zero_vx.x.x.wim`.
+3. Start the VM and using `Dism++` to generate an image file, named `zero_vx.x.x.esd`.
 4. Upload the image file to server with URL `http://eee.dog/zero@x.x.x`.
 5. Redirect the URL `http://eee.dog/zero` to latest image's URL.
 6. Commit and push the Git repo.
