@@ -1,9 +1,13 @@
+
 # v0.1.0
  - Move [`YerongAI/Office-Tool`](https://github.com/YerongAI/Office-Tool) `v8.3.3.11` to `c:/tools/Office Tool`.
  - Using `YerongAI/Office-Tool` to install word, excel, ppt. (O365ProPlusRetail; Excel, PowerPoint, Word; en-us, zh-cn; 64 Bit; Current Channel).
  - Using `YerongAI/Office-Tool` to active the Office with `Office Mondo 2016 Volume`License` and `kms.yimian.xyz`.
  - Install [`Total Uninstall`](https://www.martau.com/uninstaller-download.php) `v7.2.1` into default position and with default config. Active with my key.
- - Install [`7-zip`](https://www.7-zip.org/download.html) `21.07` with default config.
+ - Install [`scoop`](https://scoop.sh) in powershell by exec `Set-ExecutionPolicy RemoteSigned -scope CurrentUser` and `iwr -useb get.scoop.sh | iex`
+ - Install `7-zip` with scoop. Add `[HKEY_CURRENT_USER\SOFTWARE\Classes\Directory\shellex\DragDropHandlers\7-Zip]
+@="{23170F69-40C1-278A-1000-000100020000}"` and `[HKEY_CURRENT_USER\SOFTWARE\Classes\Drive\shellex\DragDropHandlers\7-Zip]
+@="{23170F69-40C1-278A-1000-000100020000}"`and Delete `"MenuIcons"=dword:00000001` to `scoop/apps/7zip/install-context.reg`. Run this file with `Total Uninstall`.
 
 
 # v0.0.0
