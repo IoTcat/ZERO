@@ -14,6 +14,13 @@
  - [ ] Hide 3D Object, Desktop...... in computer -> Yes
  - [ ] Disable Autoplay -> Yes
  
+ - Install 'iotcat/win-wallpaper' with totaluninstall.
+ - Open setting, do the following changes:
+ - [ ] Background -> Slideshow - Pcitures/Wallpapers - 10min
+ - [ ] Colors -> Light -> purple
+ - [ ] Start -> show more tile on start - show most used apps
+ - [ ] Date&Time -> set timezone automatically
+ - [ ] Language -> add a language 中文（中华人民共和国）
  
 
  - sys config
