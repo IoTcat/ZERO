@@ -1,3 +1,14 @@
+# v0.2.0
+ - sys config
+ - snipaste
+ - spacesniffer
+ - TrafficMonitor
+ - chrome
+ - v2ray
+ - everything
+ - potplayer
+ - qBittorrent Enhanced Edition
+ - wox
 
 # v0.1.0
  - Move [`YerongAI/Office-Tool`](https://github.com/YerongAI/Office-Tool) `v8.3.3.11` to `c:/tools/Office Tool`.
@@ -7,7 +18,7 @@
  - Install [`scoop`](https://scoop.sh) in powershell by exec `Set-ExecutionPolicy RemoteSigned -scope CurrentUser` and `iwr -useb get.scoop.sh | iex`
  - Install `7-zip` with scoop. Add `[HKEY_CURRENT_USER\SOFTWARE\Classes\Directory\shellex\DragDropHandlers\7-Zip]
 @="{23170F69-40C1-278A-1000-000100020000}"` and `[HKEY_CURRENT_USER\SOFTWARE\Classes\Drive\shellex\DragDropHandlers\7-Zip]
-@="{23170F69-40C1-278A-1000-000100020000}"`and Delete `"MenuIcons"=dword:00000001` to `scoop/apps/7zip/install-context.reg`. Run this file with `Total Uninstall`.
+@="{23170F69-40C1-278A-1000-000100020000}"`and Delete `"MenuIcons"=dword:00000001` to `scoop/apps/7zip/install-context.reg`. Run this file with `Total Uninstall`. (scoop hold)
 
 
 # v0.0.0
