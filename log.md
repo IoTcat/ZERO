@@ -20,7 +20,7 @@
  - [ ] Colors -> Light -> purple
  - [ ] Start -> show more tile on start - show most used apps
  - [ ] Date&Time -> set timezone automatically
- - [ ] Language -> add a language 中文（中华人民共和国）
+ - [ ] Language -> add a language 中文（中华人民共和国）- Microsoft Pinyin -> General -> Default Mode -> English
  
 
  - sys config
