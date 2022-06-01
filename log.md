@@ -1,4 +1,21 @@
 # v0.2.0
+ - Open `dism++` and select `System Optimizer`. Change the following settings:   
+ - [ ] How Cortana is shown on the taskbar -> Hidden
+ - [ ] Hide task view button -> Yes
+ - [ ] Taskbar clock displays seconds -> Yes
+ - [ ] Disable suggestions in start menu -> Yes
+ - [ ] Disable search for associated application in Windows Store -> Yes
+ - [ ] Disable Ads from Windows Store -> Yes
+ - [ ] Disable automatical installition of recommended apps -> Yes
+ - [ ] Disable Cortana -> Yes
+ - [ ] Open File Explorer to this PC -> Yes
+ - [ ] Show extentions to all file types -> Yes
+ - [ ] Prevent adding the suffix shortcut when creating a shortcut -> Yes
+ - [ ] Hide 3D Object, Desktop...... in computer -> Yes
+ - [ ] Disable Autoplay -> Yes
+ 
+ 
+
  - sys config
  - snipaste
  - spacesniffer
