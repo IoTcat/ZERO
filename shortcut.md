@@ -1,0 +1,56 @@
+ - [ ] Ctrl+C
+ - [ ] Ctrl+V
+ - [ ] Ctrl+X
+ - [ ] Ctrl+A
+ - [ ] Ctrl+Z
+ - [ ] Ctrl+Y
+ - [ ] Ctrl+D
+ - [ ] Ctrl+R
+ - [ ] Ctrl+S
+ - [ ] Ctrl+W
+ - [ ] Ctrl+F
+ - [ ] Ctrl+N
+ - [ ] Ctrl+Shift+N
+ - [ ] Ctrl+T
+ - [ ] Ctrl+tab
+ - [ ] Ctrl+Shift+tab
+ - [ ] Alt+tab
+ - [ ] Ctrl+Num
+ - [ ] Ctrl+F4
+ - [ ] Alt+F4
+ - [ ] Ctrl+ESC
+ - [ ] Ctrl+Shift+ESC
+ - [ ] Alt+ESC
+ - [ ] Alt+Enter
+ - [ ] Shift+Click
+ - [ ] Shift+Delete
+
+task bar
+- [ ] Shift+Click
+- [ ] Ctrl+Shift+Click
+
+win
+ - [ ] Win+A
+ - [ ] Win+D
+ - [ ] Win+Alt+D
+ - [ ] Win+E
+ - [ ] Win+G
+ - [ ] Win+H
+ - [ ] Win+I
+ - [ ] Win+L
+ - [ ] Win+K
+ - [ ] Win+M
+ - [ ] Win+Shift+M
+ - [ ] Win+R
+ - [ ] Win+T
+ - [ ] Win+X
+ - [ ] Win+,
+ - [ ] Win+Num
+ - [ ] Win+Shift+Num
+ - [ ] Win+Ctrl+Shift+Num
+ - [ ] Win+up/down/left/right
+ - [ ] Win+\+/-/ESC
+ - [ ] Win+tab
+ - [ ] Win+Ctrl+D
+ - [ ] Win+Ctrl+left/right
+ - [ ] Win+Ctrl+F4
