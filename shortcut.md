@@ -7,6 +7,8 @@
  - [ ] Ctrl+D
  - [ ] Ctrl+R
  - [ ] Ctrl+S
+ - [ ] Ctrl+O
+ - [ ] Ctrl+E
  - [ ] Ctrl+W
  - [ ] Ctrl+F
  - [ ] Ctrl+N
@@ -43,12 +45,14 @@ win
  - [ ] Win+Shift+M
  - [ ] Win+R
  - [ ] Win+T
+ - [ ] Win+Shift+T
  - [ ] Win+X
  - [ ] Win+,
  - [ ] Win+Num
  - [ ] Win+Shift+Num
  - [ ] Win+Ctrl+Shift+Num
  - [ ] Win+up/down/left/right
+ - [ ] Win+Shift+up/down
  - [ ] Win+\+/-/ESC
  - [ ] Win+tab
  - [ ] Win+Ctrl+D
