@@ -14,6 +14,7 @@
  - [ ] Hide 3D Object, Desktop...... in computer -> Yes
  - [ ] Disable Autoplay -> Yes
  
+ - Install MadobeFamily2015Winter Theme
  - Install 'iotcat/win-wallpaper' with totaluninstall.
  - Open setting, do the following changes:
  - [ ] Background -> Slideshow - Pcitures/Wallpapers - 10min
