@@ -21,18 +21,14 @@
  - [ ] Start -> show more tile on start - show most used apps
  - [ ] Date&Time -> set timezone automatically
  - [ ] Language -> add a language 中文（中华人民共和国）- Microsoft Pinyin -> General -> Default Mode -> English
- 
+ - [ ] Privacy -> Location -> Location for this devices - on - allow app visit - Maps, weather
+ - [ ] Easy of access -> mouse pointer -> Third
+ - [ ] Easy of access -> Text cursor -> on
+ - [ ] System -> Display -> Night light setting -> schedule sunset to sunrise
+ - [ ] Language -> keyboard -> Override -> Chinese Pinyin
+ - [ ] uninstall solitaire collection games..
 
- - sys config
- - snipaste
- - spacesniffer
- - TrafficMonitor
- - chrome
- - v2ray
- - everything
- - potplayer
- - qBittorrent Enhanced Edition
- - wox
+ - Classify taskbar (file explorer, mail, edge) and windows sticker (photo, weather camera, app store).
 
 # v0.1.0
  - Move [`YerongAI/Office-Tool`](https://github.com/YerongAI/Office-Tool) `v8.3.3.11` to `c:/tools/Office Tool`.
