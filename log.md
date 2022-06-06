@@ -1,3 +1,21 @@
+# v0.3.0
+- Install [v2rayN 5.32](https://github.com/2dust/v2rayN/releases/tag/5.23) to %appdata%. 
+- [ ] setting->V2rayN 设置 -> 开机自启动 - 解除win10UWP回环
+- [ ] 全局热键设置->清除系统代理Ctrl+Alt+Shift+P, 自动配置系统代理Ctrl+Alt+P
+- [ ] 路由设置->保留全局，添加FlyToWorld和BackToChina
+
+
+- `TrafficMonitor_V1.83_x64_Lite`安装到%appdata%。
+- [ ] close main window
+- [ ] show taskbar window
+- [ ] Setting -> Taskbar setting -> auto set the background color according to taskbar color -> Yes ; Auto adapted to Win10 theme -> Yes; display setting ->  add CPU and MEM; Show resource usage graph; show net speed graph; color -> bottom left second gray; 
+- [ ] General setting -> Check for update -> No; auto run when windows start->Yes; Show notify icon->No
+- remove news from taskbar
+
+- `QuickLook-3.7.1`insall.
+- 
+
+
 # v0.2.0
  - Open `dism++` and select `System Optimizer`. Change the following settings:   
  - [ ] How Cortana is shown on the taskbar -> Hidden
