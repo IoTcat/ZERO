@@ -13,7 +13,7 @@
 - remove news from taskbar
 
 - `QuickLook-3.7.1`insall.
-- 
+- `Snipaste-1.16.2-x64` install: Run on system startup; as administrator; use Hex value for color picker; hotkey: snip->Ctrl+Alt+A, Paste->Ctrl+Alt+Shift+A, others->none; check for update on startup->no
 
 
 # v0.2.0
