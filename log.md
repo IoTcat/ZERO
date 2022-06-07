@@ -16,6 +16,10 @@
 - `Snipaste-1.16.2-x64` install: Run on system startup; as administrator; use Hex value for color picker; hotkey: snip->Ctrl+Alt+A, Paste->Ctrl+Alt+Shift+A, others->none; check for update on startup->no
 
 - install `vlc-3.0.17.4-win32`, set as win setting default video app
+- scoop install git
+- install `Wox-1.3.524`, hide wox on start; hide wox when focus is lost; auto update->No; shell->replace win+R->No; theme-> Light; 
+- install `Everything-1.4.1.1017.x64-Setup`, show search everything folder content; show tray icon->No; 
+- 
 
 # v0.2.0
  - Open `dism++` and select `System Optimizer`. Change the following settings:   
