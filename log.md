@@ -16,10 +16,13 @@
 - `Snipaste-1.16.2-x64` install: Run on system startup; as administrator; use Hex value for color picker; hotkey: snip->Ctrl+Alt+A, Paste->Ctrl+Alt+Shift+A, others->none; check for update on startup->no
 
 - install `vlc-3.0.17.4-win32`, set as win setting default video app
+- open v2rayN, clear ditto!!
+- goto cmd, set http(s)_proxy=http://127.0.0.1:10809
 - scoop install git, git config --global credential.helper manager-core; 
 - scoop install aria2
 - scoop install python
 - scoop cache rm *
+- clear v2rayN
 - install `Wox-1.3.524`, hide wox on start; hide wox when focus is lost; auto update->No; python path->~/scoop/app/python/current; shell->replace win+R->No; theme-> Light; 
 - install `Everything-1.4.1.1017.x64-Setup`, show search everything folder content; show tray icon->No; 
 - install `DittoSetup_64bit_3_24_214_0`, show startup message->no; active ditto->Ctrl+Shift+V; test only paste->Ctrl+Alt+V; positions->Ctrl+Alt+Win+Num; Copy buffer->Ctrl+Alt+Win+(Shift)+C/V
