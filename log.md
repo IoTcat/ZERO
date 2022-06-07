@@ -27,6 +27,8 @@
 - install `Everything-1.4.1.1017.x64-Setup`, show search everything folder content; show tray icon->No; 
 - install `DittoSetup_64bit_3_24_214_0`, show startup message->no; active ditto->Ctrl+Shift+V; test only paste->Ctrl+Alt+V; positions->Ctrl+Alt+Win+Num; Copy buffer->Ctrl+Alt+Win+(Shift)+C/V
 
+ - install `AutoHotkey_1.1.34.03_setup`, install [`IoTcat/ahk`](https://github.com/IoTcat/ahk)
+
 # v0.2.0
  - Open `dism++` and select `System Optimizer`. Change the following settings:   
  - [ ] How Cortana is shown on the taskbar -> Hidden
