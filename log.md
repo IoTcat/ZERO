@@ -12,7 +12,7 @@
  - default->appearance->color scheme->solarized light
  - [ ] redirect ahk repo from github to git.yimian.xyz
  - [ ] update ahk script
- - [ ] wox install 有道翻译; hosts; ip address; kill; timestamp; remove usb; browser bookmarkers; 进制转换; hexrgb; timer; Switcheroo;
+ - [ ] wox install 有道翻译; hosts; ip address; kill; timestamp; remove usb; browser bookmarkers; 进制转换; hexrgb; timer; Switcheroo; base64tool; cryptohash;
 # v0.3.1
 - [ ] Fix snipaste crash bug by Overwriting the snipaste folder with `snipaste v2.7.3-Beta 32bit` excluding `config.ini`。
 # v0.3.0
