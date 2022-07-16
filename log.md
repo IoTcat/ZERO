@@ -1,3 +1,5 @@
+# v0.3.1
+- [ ] Fix snipaste crash bug by Overwriting the snipaste folder with `snipaste v2.7.3-Beta 32bit` excluding `config.ini`。
 # v0.3.0
 - Install [v2rayN 5.32](https://github.com/2dust/v2rayN/releases/tag/5.23) to %appdata%. 
 - [ ] setting->V2rayN 设置 -> 开机自启动 - 解除win10UWP回环
