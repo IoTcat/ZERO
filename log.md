@@ -1,3 +1,11 @@
+# v0.3.2
+ - [ ] hide meeting now in the tray
+ - [ ] install notepad3 `Notepad3_5.21.1129.1_Setup`
+ - settings->esc functions->exit notepad3
+ - view->show line ending & show blanks & long line marker
+ - settings -> tab setting -> insert tab as spaces
+ - [ ] enable windows subsystem for linux
+ - [ ] set system proxy to host v2ray and `winget install microsoft.windowsterminal`
 # v0.3.1
 - [ ] Fix snipaste crash bug by Overwriting the snipaste folder with `snipaste v2.7.3-Beta 32bit` excluding `config.ini`。
 # v0.3.0
