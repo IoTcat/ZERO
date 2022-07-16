@@ -1,4 +1,5 @@
-# v0.3.2
+# v0.4.0
+ - [ ] Fix snipaste crash bug by Overwriting the snipaste folder with `snipaste v2.7.3-Beta 32bit` excluding `config.ini`。
  - [ ] hide meeting now in the tray
  - [ ] install notepad3 `Notepad3_5.21.1129.1_Setup`
  - settings->esc functions->exit notepad3
@@ -13,8 +14,7 @@
  - [ ] redirect ahk repo from github to git.yimian.xyz
  - [ ] update ahk script
  - [ ] wox install 有道翻译; hosts; ip address; kill; timestamp; remove usb; browser bookmarkers; 进制转换; hexrgb; timer; Switcheroo; base64tool; cryptohash;
-# v0.3.1
-- [ ] Fix snipaste crash bug by Overwriting the snipaste folder with `snipaste v2.7.3-Beta 32bit` excluding `config.ini`。
+
 # v0.3.0
 - Install [v2rayN 5.32](https://github.com/2dust/v2rayN/releases/tag/5.23) to %appdata%. 
 - [ ] setting->V2rayN 设置 -> 开机自启动 - 解除win10UWP回环
