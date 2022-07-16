@@ -6,6 +6,13 @@
  - settings -> tab setting -> insert tab as spaces
  - [ ] enable windows subsystem for linux
  - [ ] set system proxy to host v2ray and `winget install microsoft.windowsterminal`
+ - [ ] terminal settings
+ - startup -> new instance behavior -> attached to the most recently used window on this desktop
+ - action -> show/hide quake window -> ahk::#+^!``
+ - default->appearance->color scheme->solarized light
+ - [ ] redirect ahk repo from github to git.yimian.xyz
+ - [ ] update ahk script
+ - [ ] wox install 有道翻译; hosts; ip address; kill; timestamp; remove usb; browser bookmarkers; 进制转换; hexrgb; timer; Switcheroo;
 # v0.3.1
 - [ ] Fix snipaste crash bug by Overwriting the snipaste folder with `snipaste v2.7.3-Beta 32bit` excluding `config.ini`。
 # v0.3.0
